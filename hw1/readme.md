@@ -26,6 +26,18 @@ In this task I have designed a 6-bar mechanism driven by pneumatic actuator. A0-
 
 The workpiece is moved from right to left and I assume it lies on the rails on the red line.
 
+# Idea:
+
+I would like to describe the idea of how the workpiece is moved from one part of mechanism to another:
+
+![idea](assets/swap.jpg)
+
+I assume that in third dimension left and and right part of mechanism do not collide with each other. It will allow to one part of mechanism to hold the piece while second will pick it up.
+
+_In real world there should be at least a pair of red-blue holders not to lose the detail_
+
+Also, in geogebra animation I have tried to draw where applicable such additional links for clarity.
+
 # Conclusion:
 
 Actually, for most of the tasks the most important idea of flipping was to divide the procedure into two parts: flip to the middle and then flip to the end.
